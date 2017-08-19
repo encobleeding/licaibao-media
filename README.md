@@ -1,1 +1,2 @@
 # licaibao-media
+- 使用css的media媒体查询和插件OwlCarousel2书写的理财宝官网首页，通过media实现响应式网页布局，并且使用OwlCarousel2实现响应式和用户体验极佳的轮播图插件。
